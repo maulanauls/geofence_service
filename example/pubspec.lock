@@ -69,7 +69,7 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: b6b9138b59022d32b9d2f128d0a23663c3ad21ec
+      resolved-ref: b8fbaca00a88cf154724e00292e8d855690f0afc
       url: "https://github.com/maulanauls/fl_location.git"
     source: git
     version: "1.2.2"
